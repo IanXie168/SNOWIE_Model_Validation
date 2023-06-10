@@ -80,5 +80,5 @@ Additional contact information
    https://data.eol.ucar.edu/contact/show/2273
 
 Alternate metadata formats
- * DataCite: https://data.eol.ucar.edu/dataset/534.011?format=datacite
+ * DataCite: Ikeda, K. (2018). NCAR and Idaho Power Company SNOWIE Precipitation Gauges. Version 1.1 (Version 1.1) [Data set]. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.5065/D6959G87 Accessed 10 Jun 2023.
  * ISO/TC 211: https://data.eol.ucar.edu/dataset/534.011?format=isotc211
